@@ -7,6 +7,7 @@ package codes;
  */
 public class Codes {
 
+    int x;
     /**
      * @param args the command line arguments
      */
@@ -16,4 +17,5 @@ public class Codes {
         System.out.println("123");
     }
     
+
 }
